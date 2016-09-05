@@ -1,0 +1,356 @@
+fileFormatVersion: 2
+guid: 571dc322313ec6f49873b721a5795063
+timeCreated: 1472618312
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: full_temple_30_Aug_2016:Avata_stage:pCylinder1
+    100002: full_temple_30_Aug_2016:group27
+    100004: full_temple_30_Aug_2016:pCylinder1
+    100006: full_temple_30_Aug_2016:pCylinder10
+    100008: full_temple_30_Aug_2016:pCylinder11
+    100010: full_temple_30_Aug_2016:pCylinder12
+    100012: full_temple_30_Aug_2016:pCylinder13
+    100014: full_temple_30_Aug_2016:pCylinder14
+    100016: full_temple_30_Aug_2016:pCylinder15
+    100018: full_temple_30_Aug_2016:pCylinder16
+    100020: full_temple_30_Aug_2016:pCylinder17
+    100022: full_temple_30_Aug_2016:pCylinder18
+    100024: full_temple_30_Aug_2016:pCylinder19
+    100026: full_temple_30_Aug_2016:pCylinder2
+    100028: full_temple_30_Aug_2016:pCylinder20
+    100030: full_temple_30_Aug_2016:pCylinder21
+    100032: full_temple_30_Aug_2016:pCylinder22
+    100034: full_temple_30_Aug_2016:pCylinder3
+    100036: full_temple_30_Aug_2016:pCylinder3 1
+    100038: full_temple_30_Aug_2016:pCylinder4
+    100040: full_temple_30_Aug_2016:pCylinder5
+    100042: full_temple_30_Aug_2016:pCylinder6
+    100044: full_temple_30_Aug_2016:pCylinder7
+    100046: full_temple_30_Aug_2016:pCylinder8
+    100048: full_temple_30_Aug_2016:pCylinder9
+    100050: full_temple_30_Aug_2016:temple_1:pPlane1
+    100052: group1
+    100054: group11
+    100056: group11 1
+    100058: group12
+    100060: group13
+    100062: group1_pCube7
+    100064: group1_pCube7 1
+    100066: group1_pCube8
+    100068: group1_pCube8 1
+    100070: group3
+    100072: group4
+    100074: group5
+    100076: group6
+    100078: group7
+    100080: group8
+    100082: group9
+    100084: pCube1
+    100086: pCube2
+    100088: pCube2 1
+    100090: pCube3
+    100092: pCube3 1
+    100094: pCylinder22
+    100096: pCylinder23
+    100098: pCylinder3
+    100100: pCylinder3 1
+    100102: pCylinder4
+    100104: pPlane12
+    100106: pPlane12 1
+    100108: pPlane12 2
+    100110: pPlane12 3
+    100112: pPlane13
+    100114: pPlane13 1
+    100116: pPlane13 2
+    100118: pPlane13 3
+    100120: pPlane14
+    100122: pPlane14 1
+    100124: pPlane14 2
+    100126: pPlane14 3
+    100128: //RootNode
+    400000: full_temple_30_Aug_2016:Avata_stage:pCylinder1
+    400002: full_temple_30_Aug_2016:group27
+    400004: full_temple_30_Aug_2016:pCylinder1
+    400006: full_temple_30_Aug_2016:pCylinder10
+    400008: full_temple_30_Aug_2016:pCylinder11
+    400010: full_temple_30_Aug_2016:pCylinder12
+    400012: full_temple_30_Aug_2016:pCylinder13
+    400014: full_temple_30_Aug_2016:pCylinder14
+    400016: full_temple_30_Aug_2016:pCylinder15
+    400018: full_temple_30_Aug_2016:pCylinder16
+    400020: full_temple_30_Aug_2016:pCylinder17
+    400022: full_temple_30_Aug_2016:pCylinder18
+    400024: full_temple_30_Aug_2016:pCylinder19
+    400026: full_temple_30_Aug_2016:pCylinder2
+    400028: full_temple_30_Aug_2016:pCylinder20
+    400030: full_temple_30_Aug_2016:pCylinder21
+    400032: full_temple_30_Aug_2016:pCylinder22
+    400034: full_temple_30_Aug_2016:pCylinder3
+    400036: full_temple_30_Aug_2016:pCylinder3 1
+    400038: full_temple_30_Aug_2016:pCylinder4
+    400040: full_temple_30_Aug_2016:pCylinder5
+    400042: full_temple_30_Aug_2016:pCylinder6
+    400044: full_temple_30_Aug_2016:pCylinder7
+    400046: full_temple_30_Aug_2016:pCylinder8
+    400048: full_temple_30_Aug_2016:pCylinder9
+    400050: full_temple_30_Aug_2016:temple_1:pPlane1
+    400052: group1
+    400054: group11
+    400056: group11 1
+    400058: group12
+    400060: group13
+    400062: group1_pCube7
+    400064: group1_pCube7 1
+    400066: group1_pCube8
+    400068: group1_pCube8 1
+    400070: group3
+    400072: group4
+    400074: group5
+    400076: group6
+    400078: group7
+    400080: group8
+    400082: group9
+    400084: pCube1
+    400086: pCube2
+    400088: pCube2 1
+    400090: pCube3
+    400092: pCube3 1
+    400094: pCylinder22
+    400096: pCylinder23
+    400098: pCylinder3
+    400100: pCylinder3 1
+    400102: pCylinder4
+    400104: pPlane12
+    400106: pPlane12 1
+    400108: pPlane12 2
+    400110: pPlane12 3
+    400112: pPlane13
+    400114: pPlane13 1
+    400116: pPlane13 2
+    400118: pPlane13 3
+    400120: pPlane14
+    400122: pPlane14 1
+    400124: pPlane14 2
+    400126: pPlane14 3
+    400128: //RootNode
+    2300000: full_temple_30_Aug_2016:Avata_stage:pCylinder1
+    2300002: full_temple_30_Aug_2016:pCylinder1
+    2300004: full_temple_30_Aug_2016:pCylinder10
+    2300006: full_temple_30_Aug_2016:pCylinder11
+    2300008: full_temple_30_Aug_2016:pCylinder12
+    2300010: full_temple_30_Aug_2016:pCylinder13
+    2300012: full_temple_30_Aug_2016:pCylinder14
+    2300014: full_temple_30_Aug_2016:pCylinder15
+    2300016: full_temple_30_Aug_2016:pCylinder16
+    2300018: full_temple_30_Aug_2016:pCylinder17
+    2300020: full_temple_30_Aug_2016:pCylinder18
+    2300022: full_temple_30_Aug_2016:pCylinder19
+    2300024: full_temple_30_Aug_2016:pCylinder2
+    2300026: full_temple_30_Aug_2016:pCylinder20
+    2300028: full_temple_30_Aug_2016:pCylinder21
+    2300030: full_temple_30_Aug_2016:pCylinder22
+    2300032: full_temple_30_Aug_2016:pCylinder3
+    2300034: full_temple_30_Aug_2016:pCylinder3 1
+    2300036: full_temple_30_Aug_2016:pCylinder4
+    2300038: full_temple_30_Aug_2016:pCylinder5
+    2300040: full_temple_30_Aug_2016:pCylinder6
+    2300042: full_temple_30_Aug_2016:pCylinder7
+    2300044: full_temple_30_Aug_2016:pCylinder8
+    2300046: full_temple_30_Aug_2016:pCylinder9
+    2300048: full_temple_30_Aug_2016:temple_1:pPlane1
+    2300050: group1_pCube7
+    2300052: group1_pCube7 1
+    2300054: group1_pCube8
+    2300056: group1_pCube8 1
+    2300058: pCube1
+    2300060: pCube2
+    2300062: pCube2 1
+    2300064: pCube3
+    2300066: pCube3 1
+    2300068: pCylinder22
+    2300070: pCylinder23
+    2300072: pCylinder3
+    2300074: pCylinder3 1
+    2300076: pCylinder4
+    2300078: pPlane12
+    2300080: pPlane12 1
+    2300082: pPlane12 2
+    2300084: pPlane12 3
+    2300086: pPlane13
+    2300088: pPlane13 1
+    2300090: pPlane13 2
+    2300092: pPlane13 3
+    2300094: pPlane14
+    2300096: pPlane14 1
+    2300098: pPlane14 2
+    2300100: pPlane14 3
+    3300000: full_temple_30_Aug_2016:Avata_stage:pCylinder1
+    3300002: full_temple_30_Aug_2016:pCylinder1
+    3300004: full_temple_30_Aug_2016:pCylinder10
+    3300006: full_temple_30_Aug_2016:pCylinder11
+    3300008: full_temple_30_Aug_2016:pCylinder12
+    3300010: full_temple_30_Aug_2016:pCylinder13
+    3300012: full_temple_30_Aug_2016:pCylinder14
+    3300014: full_temple_30_Aug_2016:pCylinder15
+    3300016: full_temple_30_Aug_2016:pCylinder16
+    3300018: full_temple_30_Aug_2016:pCylinder17
+    3300020: full_temple_30_Aug_2016:pCylinder18
+    3300022: full_temple_30_Aug_2016:pCylinder19
+    3300024: full_temple_30_Aug_2016:pCylinder2
+    3300026: full_temple_30_Aug_2016:pCylinder20
+    3300028: full_temple_30_Aug_2016:pCylinder21
+    3300030: full_temple_30_Aug_2016:pCylinder22
+    3300032: full_temple_30_Aug_2016:pCylinder3
+    3300034: full_temple_30_Aug_2016:pCylinder3 1
+    3300036: full_temple_30_Aug_2016:pCylinder4
+    3300038: full_temple_30_Aug_2016:pCylinder5
+    3300040: full_temple_30_Aug_2016:pCylinder6
+    3300042: full_temple_30_Aug_2016:pCylinder7
+    3300044: full_temple_30_Aug_2016:pCylinder8
+    3300046: full_temple_30_Aug_2016:pCylinder9
+    3300048: full_temple_30_Aug_2016:temple_1:pPlane1
+    3300050: group1_pCube7
+    3300052: group1_pCube7 1
+    3300054: group1_pCube8
+    3300056: group1_pCube8 1
+    3300058: pCube1
+    3300060: pCube2
+    3300062: pCube2 1
+    3300064: pCube3
+    3300066: pCube3 1
+    3300068: pCylinder22
+    3300070: pCylinder23
+    3300072: pCylinder3
+    3300074: pCylinder3 1
+    3300076: pCylinder4
+    3300078: pPlane12
+    3300080: pPlane12 1
+    3300082: pPlane12 2
+    3300084: pPlane12 3
+    3300086: pPlane13
+    3300088: pPlane13 1
+    3300090: pPlane13 2
+    3300092: pPlane13 3
+    3300094: pPlane14
+    3300096: pPlane14 1
+    3300098: pPlane14 2
+    3300100: pPlane14 3
+    4300000: pCube1
+    4300002: pCube2
+    4300004: pCube3
+    4300006: pCube2
+    4300008: pCube3
+    4300010: group1_pCube8
+    4300012: group1_pCube7
+    4300014: group1_pCube8
+    4300016: group1_pCube7
+    4300018: pCylinder3
+    4300020: full_temple_30_Aug_2016:pCylinder3
+    4300022: pCylinder3
+    4300024: pCylinder4
+    4300026: full_temple_30_Aug_2016:temple_1:pPlane1
+    4300028: full_temple_30_Aug_2016:pCylinder2
+    4300030: full_temple_30_Aug_2016:pCylinder4
+    4300032: full_temple_30_Aug_2016:pCylinder1
+    4300034: full_temple_30_Aug_2016:Avata_stage:pCylinder1
+    4300036: full_temple_30_Aug_2016:pCylinder3
+    4300038: full_temple_30_Aug_2016:pCylinder5
+    4300040: full_temple_30_Aug_2016:pCylinder7
+    4300042: full_temple_30_Aug_2016:pCylinder8
+    4300044: full_temple_30_Aug_2016:pCylinder9
+    4300046: full_temple_30_Aug_2016:pCylinder10
+    4300048: full_temple_30_Aug_2016:pCylinder11
+    4300050: full_temple_30_Aug_2016:pCylinder6
+    4300052: full_temple_30_Aug_2016:pCylinder12
+    4300054: full_temple_30_Aug_2016:pCylinder13
+    4300056: full_temple_30_Aug_2016:pCylinder14
+    4300058: full_temple_30_Aug_2016:pCylinder15
+    4300060: full_temple_30_Aug_2016:pCylinder16
+    4300062: full_temple_30_Aug_2016:pCylinder17
+    4300064: full_temple_30_Aug_2016:pCylinder18
+    4300066: full_temple_30_Aug_2016:pCylinder19
+    4300068: full_temple_30_Aug_2016:pCylinder20
+    4300070: full_temple_30_Aug_2016:pCylinder21
+    4300072: full_temple_30_Aug_2016:pCylinder22
+    4300074: pCylinder22
+    4300076: pPlane14
+    4300078: pPlane13
+    4300080: pPlane12
+    4300082: pPlane12
+    4300084: pPlane13
+    4300086: pPlane14
+    4300088: pPlane14
+    4300090: pPlane13
+    4300092: pPlane12
+    4300094: pPlane12
+    4300096: pPlane13
+    4300098: pPlane14
+    4300100: pCylinder23
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

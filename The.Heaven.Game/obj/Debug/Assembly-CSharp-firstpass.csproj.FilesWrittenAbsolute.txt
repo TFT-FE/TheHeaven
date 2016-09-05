@@ -1,0 +1,15 @@
+/media/sevheng/Documents/TheFingersTeam/The.Heaven.Game/Temp/bin/Debug/UnityEngine.dll
+/media/sevheng/Documents/TheFingersTeam/The.Heaven.Game/Temp/bin/Debug/UnityEditor.dll
+/media/sevheng/Documents/TheFingersTeam/The.Heaven.Game/Temp/bin/Debug/UnityEngine.UI.dll
+/media/sevheng/Documents/TheFingersTeam/The.Heaven.Game/Temp/bin/Debug/UnityEngine.Networking.dll
+/media/sevheng/Documents/TheFingersTeam/The.Heaven.Game/Temp/bin/Debug/Photon3Unity3D.dll
+/media/sevheng/Documents/TheFingersTeam/The.Heaven.Game/Temp/bin/Debug/websocket-sharp.dll
+/media/sevheng/Documents/TheFingersTeam/The.Heaven.Game/Temp/bin/Debug/Unity.DataContract.dll
+/media/sevheng/Documents/TheFingersTeam/The.Heaven.Game/Temp/bin/Debug/Mono.Cecil.dll
+/media/sevheng/Documents/TheFingersTeam/The.Heaven.Game/Temp/bin/Debug/Unity.SerializationLogic.dll
+/media/sevheng/Documents/TheFingersTeam/The.Heaven.Game/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/media/sevheng/Documents/TheFingersTeam/The.Heaven.Game/Temp/bin/Debug/Unity.UNetWeaver.dll
+/media/sevheng/Documents/TheFingersTeam/The.Heaven.Game/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/media/sevheng/Documents/TheFingersTeam/The.Heaven.Game/Temp/bin/Debug/Unity.CecilTools.dll
+/media/sevheng/Documents/TheFingersTeam/The.Heaven.Game/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/media/sevheng/Documents/TheFingersTeam/The.Heaven.Game/Temp/bin/Debug/Mono.Cecil.Mdb.dll
